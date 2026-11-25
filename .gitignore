@@ -1,0 +1,4 @@
+TownExplorer
+*.o
+*.app/
+.DS_Store
