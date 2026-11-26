@@ -1,1 +1,92 @@
-IyDmma/oibLjga7oqK3oqIggdjAuMu+8iEdlbWluaeiqv+afu+OCkuWPjeaYoOa4iOOBv++8iQoKIyMg44Kz44Oz44K744OX44OICgrjgIzntbbmma/jgpLmjqLjgZfjgabmranjgY/jgI3jgaDjgZHjga7nlLrjgILjgrLjg7zjg6DnmoTjgarnm67nmoTjga/nva7jgYvjgarjgYTjgIIK5Y+C6ICD44Gr44GX44Gm44GE44KL56m65rCX77yI44Om44O844K244O844GM5YWx5pyJ44GX44Gf5pmv6Imy44Gu5YaZ55yf44GL44KJ77yJOgoKMS4g44OW44Or44O844Ki44Ov44O844Gu5rW36L6644Gu6aeF44CB5rGf44OO6Zu76aKo44Gu6Zu76LuK44CB5rW35rK/44GE44Gu6YGTCjIuIOmbqOS4iuOBjOOCiuOBrumnheODm+ODvOODoOOAgei1pOS/oeWPt+OBjOa/oeOCjOOBn+W6iuOBq+WPjeWwhAozLiDmtbfovrrjga7lsI/jgZXjgarllYblupfjga7lpJXmma/jgIHlupfjga7mmI7jgYvjgooKNC4g5aSP44Gu55Sw6IiO6YGT44Go57ea6Lev44CB6Ieq6Lui6LuK44CB5aSn44GN44Gq5YWl6YGT6ZuyCjUuIOWknOOBrua1t+OAgeW3qOWkp+OBquepjeS5sembsuOBruaui+eFp+OAgeW4huiIueOAgeaYn+epugoKIyMgR2VtaW5p6Kq/5p+777yIMjAyNi0xMS0yNe+8ieOBruimgeeCuQoK5a6f5Zyo44Oi44OB44O844OV44Go44CB5a6f6KOF44Gr5Y+W44KK6L6844KT44Gg44KC44GuOgoKLSAqKua1t+i+uuOBrumnhSoqOiDmsZ/jg47pm7vjg7vpjozlgInpq5jmoKHliY3pp4XlkajovrrjgYzku6PooajkvovjgILpmbjlgbTjgavlgr7mlpzlnLDjgajkvY/lroXjg7vlsI/jgZXjgarpp4XjgIEKICDmtbflgbTjgavjgqzjg7zjg4njg6zjg7zjg6vvvI/kvY7jgoHjga7pmLLmva7loKTjgIHjgZ3jga7jgZnjgZDlpJbjgavmsLTlubPnt5rjgIHjgajjgYTjgYbjgIzni63jgYTluK/nirbjga7nqbrplpPjgI3jgYzmnKzos6rjgIIKICDihpIg55S644KS57Sw6ZW344GP44GX44CB5a625Lim44G/4oaS6aeF4oaS57ea6Lev4oaS5rW35rK/44GE44Gu6YGT4oaS5rW344Gu6aCG44Gr5biv54q26YWN572u44GX44Gf77yIdjAuMeOBp+Wun+ijhea4iOOBv++8iQotICoq6Zuo44Gu6aeFKio6IOOCs+ODs+OCr+ODquODvOODiOOBruODm+ODvOODoOOAgeeCueWtl+ODluODreODg+OCr+OBqOeZvee3muOAgei1pOS/oeWPt+OAgeawtOOBn+OBvuOCiuOBruWFieayouODoOODqeOAgQogIOS4iuWxi+OBqOODmeODs+ODgeOAgemnheWQjeaomeOAguKGkiDngrnlrZfjg5bjg63jg4Pjgq/oibLjga7jg6njgqTjg7PjgIHjg5njg7Pjg4HjgIHpp4XlkI3mqJnpoqjjg5zjg7zjg4njgIHotaTkv6Hlj7fjga4KICDlgb3lj43lsITjgpLov73liqDvvIh2MC4y77yJ44CC5rC044Gf44G+44KK44Gu44Og44Op44Gv5LuK5b6M44Gu6Kqy6aGMCi0gKirmtbfovrrjga7llYblupcqKjog5bqH44CB5byV44GN5oi444CB5a6k5aSW5qmf44CB5bGL5LiK44Gu44Ki44Oz44OG44OK44CB6aOy5paZ6Ieq6LKp5qmf44CB5bqX5YWI44Gu44Kz44Oz44OG44OK44KE6Ymi5qSN44GICiAg44Gq44Gp44CM55Sf5rS744Gu6Lyq6YOt44CN44GM5Yq544GP44CC4oaSIOWupOWkluapn+OAgeOCs+ODs+ODhuODiu+8iOOCr+ODrOODvOODiO+8ieOAgeWQhOWutuOBrlRW44Ki44Oz44OG44OK44KS6L+95Yqg77yIdjAuMu+8iQotICoq5aSP44Gu55Sw6IiOKio6IOawtOeUsOODu+iNieOCgOOCieODu+eVpumBk+OAgemBoOOBj+OBruWxseS4puOBv+OAgeWNmOe3muOBqOi4j+WIh+OAgeiHqui7oui7iuOBruOCt+ODq+OCqOODg+ODiOOAggogIOWFpemBk+mbsuOBr+W6lemdouOCsOODrOODvO+8i+WkqumZveWBtOOBrueZveOAnOOCr+ODquODvOODoOOBruWhl+OCiuWIhuOBkeOAguKGkiDojYnjgoDjgonjgajoh6rou6Lou4rjga/lrp/oo4XmuIjjgb/jgIIKICDouI/liIfjgIHmsLTnlLDjga/ku4rlvozjga7ov73liqDlgJnoo5wKLSAqKuWknOOBrumbsioqOiDlpJzjga7jg5njg7zjgrnoibLjga7kuIrjgavjgIHnqY3kubHpm7Ljga7nhafjgorov5TjgZfjgaDjgZEgI0Q5NEUyOCAvICNGRjhBM0Qg44Gu5pqW6Imy44KS6LyJ44Gb44KL44GoCiAg44CM6ZeH44Gr5aSV54Wn44GM5q6L44KL44CN5a++5q+U44GM5Ye644KL44CC4oaSIOWknOODl+ODquOCu+ODg+ODiOOBrumbsuiJsuOCkuaaluiJsuOBq+WkieabtO+8iHYwLjLvvIkKLSAqKuaYn+epuioqOiDmmJ/jga/ngrnjgrnjg5fjg6njgqTjg4jjgafmmI7jgovjgZXjgavjgbDjgonjgaTjgY3jgpLjgILlpKnjga7lt53jga7mt6HjgYTluK/jgoLlirnjgY/jgIIKICDihpIg5pif44Gu556s44GN6aKo44Gw44KJ44Gk44GN77yL5aSp44Gu5bed44Gu5biv44KS6L+95Yqg77yIdjAuMu+8iQoK5ryU5Ye66Z2i77yI44CO44G844GP44Gu44Gq44Gk44KE44GZ44G/44CP562J44Gr5YWx6YCa44GZ44KL5LiA6Iis55qE44Gq5omL5rOV44Go44GX44Gm77yJOgoKLSDjgrTjg7zjg6vjg7vjgr/jgqTjg57jg7zjg7vjgrnjgrPjgqLjgpLlh7rjgZXjgarjgYTjgILjgIzjg5njg7Pjg4HjgavluqfjgovjgI3jgIzpm7vou4rjgpLlvoXjgaTjgI3jgYzkvZPpqJPjgavjgarjgosKLSDnkrDlooPpn7Pjga7jg6zjgqTjg6Tjg7zvvIjms6LjgIHpoqjjgIHpm7vou4rjgIHomavjga7lo7DvvInjgYzmmYLplpPluK/jgafmm7/jgo/jgovjgajkvY7jg53jg6rjgafjgoLnqbrmsJfjgYznq4vjgaQKICDihpIg6Z+z44Gv5pyq5a6f6KOF44CCUGFudGhlcuOBp+OBryBPcGVuQUwgLyBRdWlja1RpbWUg44Gu44Gp44Gh44KJ44GL44Gn5b6M5LuY44GR5LqI5a6aCi0g5ZCM44GY5aC05omA44Gn44KC5pmC6ZaT5biv44Gn6KaL44GI5pa544GM5aSJ44KP44KL44CM44Gd44Gu556s6ZaT44Gu5pmv6Imy44CN44Gr5Ye65Lya44GI44KL5LuV5o6b44GRCiAg4oaSIOODl+ODquOCu+ODg+ODiOWIh+abv++8iDHjgJw144Kt44O877yJ44Gn5a6f6KOF44CC5bCG5p2l44Gv6Ieq5YuV44Gn5aSV4oaS5aSc44Gr6YG356e744GV44Gb44Gf44GECi0gSFVE44Gv5pyA5bCP6ZmQ77yI54++5Zyo44Gv44OX44Oq44K744OD44OI5ZCN44Go5pON5L2c44OS44Oz44OI44Gu44G/77yJCgojIyDjgqvjg6njg7zjg5Hjg6zjg4Pjg4jvvIhHZW1pbmnoqr/mn7vlgKTjgIHjgrPjg7zjg4nlj43mmKDmuIjjgb/vvIkKCnwgIyB8IOWQjeWJjSB8IOepuu+8iOWkqemggu+8iSB8IOWcsOW5s+e3miB8IOmcpyB8IOa1tyB8CnwtLS18LS0tLS0tfC0tLS0tLS0tLS0tfC0tLS0tLS0tfC0tLS18LS0tLXwKfCAxIHwg5aSP44Gu5pi8IHwgIzFFNkZEOSB8ICM4RkQzRkYgfCAjOUFEOEY1IHwgIzE2NUI5RSB8CnwgMiB8IOODluODq+ODvOOCouODr+ODvCB8ICMxNjI0NDcgfCDigLsgfCAjMkI0MTYyIHwgIzEzMjkzRCB8CnwgMyB8IOWkleaZryB8ICMyQzJBNEEgfCAjRjI4QzM4IHwgI0M4NkQ1MSB8ICMzRDMxNEEgfAp8IDQgfCDpm6jkuIrjgYzjgoogfCAjM0I0ODU2IHwgIzhGQTNCMCB8ICM2Njc3ODUgfCAjMkEzNjQyIHwKfCA1IHwg5aScIHwgIzA3MEIxNCB8ICMxNjIyMzggfCAjMEMxMzIyIHwgIzA2MEQxNyB8CgrigLsg44OW44Or44O844Ki44Ov44O844Gu5Zyw5bmz57ea44Gg44GR44Gv44CBR2VtaW5p44Gu6Z2S57O777yIIzRBNkZBNe+8ieOBp+OBr+OBquOBj+OAgeODpuODvOOCtuODvOOBruWGmeecn+OBqwrjgYLjgovlpJXml6Xjga7mrovnhafjga7jgqrjg6zjg7PjgrjjgpLmjqHnlKjjgZfjgZ/jgILnqbrjga7kuIrpg6jjgajpnKfjgajmtbfjga/oqr/mn7vlgKTjganjgYrjgorjgIIKCiMjIOaAp+iDveS6iOeul++8iEdlbWluaeiqv+afu+OBqOS4gOiHtO+8iQoKLSA2NDB4NDgw44CBMzBmcHPnm67mqJkKLSAx44K344O844OzIDMsMDAw44CcMTUsMDAw5LiJ6KeS5b2i44CC6Kmm5L2c44Gv44OG44Kv44K544OB44Oj44Gq44GX44O76aCC54K544Kr44Op44O844Gu44G/44Gn44GT44Gu56+E5Zuy5YaFCi0g44OG44Kv44K544OB44Oj44KS5L2/44GG5aC05ZCI44KCMTI444CcMjU2cHjkuK3lv4PjgIHlkIjoqIjmlbBNQuS7peWGheOAgeODkOOCpOODs+ODieWIh+abv+OCkuWwkeOBquOBjwotIOWNiumAj+aYjuOBrumHjeOBreaPj+OBjeOBr+ODleOCo+ODq+ODrOODvOODiOOCkumjn+OBhuOBruOBp+OAgeWPjeWwhOOBqOWFiei8quOBr+acgOWwj+mZkOOBruaemuaVsOOBq+aKkeOBiOOCiwoKIyMg55S644Gu6YWN572u77yIMeWRqOOBp+OBjeOCi+Wwj+OBleOBqueUuu+8iQoKYGBgCiAgICAgICAg5bGx44O76KaL5pm044KJ44GX5YG0ICgrWikKICDlrrbkuKbjgb8gIOWutuS4puOBvyAg5ZWG5bqXICDlrrbkuKbjgb8KIOKUgOKUgOKUgOKUgOKUgOKUgOKUgCDpp4XliY3pgJrjgoog4pSA4pSA4pSA4pSA4pSA4pSA4pSACiAgIOmnheODm+ODvOODoO+8j+e3mui3r++8iOmbu+i7iuOBjOmAmumBju+8iQog4pSA4pSA4pSA4pSA4pSA4pSA4pSAIOa1t+ayv+OBhOOBrumBk+ODu+afteOAgemYsuazouWgpOODluODreODg+OCryDilIDilIDilIDilIDilIDilIDilIAKICAgICAgICDmtbfvvIjluIboiLnvvIkgKC1aKQpgYGAKCi0gWOi7uOaWueWQkeOBq+e0hDE4MG3jga7ntLDplbfjgYTnlLoKLSDpm7vou4rjga80NOenkuWRqOacn++8iOmAmumBjue0hDI256eS77yL6Z2Z44GL44Gq6ZaT6ZqU77yJ44CC44OR44Oz44K/44Kw44Op44OV5LuY44GNM+S4oQotIOeUsOiIjumBk+OBqOe3mui3r+ayv+OBhOOBruiNieOCgOOCieOBr+mnheOBruadseWBtO+8iCtY77yJ44Gr5a+E44Gb44Gm44GE44KLCgojIyB2MC4z44Gn6L+95Yqg44GX44Gf44KC44Gu77yIMjAyNi0xMS0yNuOAgUdpdEh1YuOBq+ODl+ODg+OCt+ODpea4iOOBv++8iQoKLSAqKui4j+WIhyoq77yI5LiK44Gu5YCZ6KOcMeOCkuWun+ijhe+8ie+8muODm+ODvOODoOOBruadseWBtCB4IDQw44CcNDgg44Gr6YGT6Lev44KS6YCa44GX44CB44Ob44O844Og44KSCiAgMuWIhuWJsuOBl+OBpumamemWk+OCkuS9nOOBo+OBn+OAgua1t+WBtOOBqOeUuuWBtOOBruS4oeaWueOBq+mBruaWreapn++8iOi1pOeZveOCueODiOODqeOCpOODl+OAgeWbnui7ouOBpwogIOS4iuS4i++8ieOBqOitpuWgseeBr++8iDLnga/kuqTkupLngrnmu4XvvInvvIvjgq/jg63jgrnjg5Djg4Pjgq/jgpLphY3nva7jgILpm7vou4rjga40NOenkuWRqOacn+OBq+WQjOacn+OBl+OAgQogIOWFiOmgreOBjOi4j+WIh+OBq+adpeOCi+e0hDTnp5LliY3vvIgxMuenku+8ieOBi+OCieS4i+OBjOOCiuWni+OCgeOAgeacgOW+jOWwvuOBjOaKnOOBkeOBn+W+jO+8iDE5LjXnp5LvvIkKICDjgavkuIrjgYzjgovjgILjg4bjgq/jgrnjg4Hjg6PjgarjgZfjg7vpoILngrnjgqvjg6njg7zjga7jgb/jgafjgIHov73liqDjg53jg6rjgrTjg7Pjga/mlbDljYHnqIvluqbjgIIKCiMjIOasoeOBruWAmeijnO+8iOacquWun+ijhe+8iQoKMS4g5rC055Sw44Gu5rC06Z2i77yI5aSP77yJ44Go55Wm6YGTCjIuIOeSsOWig+mfs++8iOazouODu+miqOODu+iZq+ODu+mbu+i7iu+8ieKAlCDmmYLplpPluK/pgKPli5UKMy4g5pmC6ZaT44Gu6Ieq5YuV6YG356e777yI5aSV5pmv4oaS44OW44Or44O844Ki44Ov44O84oaS5aSc44KS44KG44Gj44GP44KK77yJCjQuIOODmeODs+ODgeOBq+OAjOW6p+OCi+OAjeaTjeS9nO+8iOimlueCueOBjOS4i+OBjOOBo+OBpuWbuuWumuOBleOCjOOCi+OBoOOBkeOBp+OCguS9k+mok+OBjOWkieOCj+OCi++8iQo1LiDllYblupfjga7nnIvmnb/jgarjganmnIDlsI/pmZDjga7jg4bjgq/jgrnjg4Hjg6PvvIgxMjhweOOAgeaVsOaemuOBoOOBke+8iQo=
+# 景色の設計 v0.2（Gemini調査を反映済み）
+
+## コンセプト
+
+「絶景を探して歩く」だけの町。ゲーム的な目的は置かない。
+参考にしている空気（ユーザーが共有した景色の写真から）:
+
+1. ブルーアワーの海辺の駅、江ノ電風の電車、海沿いの道
+2. 雨上がりの駅ホーム、赤信号が濡れた床に反射
+3. 海辺の小さな商店の夕景、店の明かり
+4. 夏の田舎道と線路、自転車、大きな入道雲
+5. 夜の海、巨大な積乱雲の残照、帆船、星空
+
+## Gemini調査（2026-11-25）の要点
+
+実在モチーフと、実装に取り込んだもの:
+
+- **海辺の駅**: 江ノ電・鎌倉高校前駅周辺が代表例。陸側に傾斜地と住宅・小さな駅、
+  海側にガードレール／低めの防潮堤、そのすぐ外に水平線、という「狭い帯状の空間」が本質。
+  → 町を細長くし、家並み→駅→線路→海沿いの道→海の順に帯状配置した（v0.1で実装済み）
+- **雨の駅**: コンクリートのホーム、点字ブロックと白線、赤信号、水たまりの光沢ムラ、
+  上屋とベンチ、駅名標。→ 点字ブロック色のライン、ベンチ、駅名標風ボード、赤信号の
+  偽反射を追加（v0.2）。水たまりのムラは今後の課題
+- **海辺の商店**: 庇、引き戸、室外機、屋上のアンテナ、飲料自販機、店先のコンテナや鉢植え
+  など「生活の輪郭」が効く。→ 室外機、コンテナ（クレート）、各家のTVアンテナを追加（v0.2）
+- **夏の田舎**: 水田・草むら・畦道、遠くの山並み、単線と踏切、自転車のシルエット。
+  入道雲は底面グレー＋太陽側の白〜クリームの塗り分け。→ 草むらと自転車は実装済み。
+  踏切、水田は今後の追加候補
+- **夜の雲**: 夜のベース色の上に、積乱雲の照り返しだけ #D94E28 / #FF8A3D の暖色を載せると
+  「闇に夕照が残る」対比が出る。→ 夜プリセットの雲色を暖色に変更（v0.2）
+- **星空**: 星は点スプライトで明るさにばらつきを。天の川の淡い帯も効く。
+  → 星の瞬き風ばらつき＋天の川の帯を追加（v0.2）
+
+演出面（『ぼくのなつやすみ』等に共通する一般的な手法として）:
+
+- ゴール・タイマー・スコアを出さない。「ベンチに座る」「電車を待つ」が体験になる
+- 環境音のレイヤー（波、風、電車、虫の声）が時間帯で替わると低ポリでも空気が立つ
+  → 音は未実装。Pantherでは OpenAL / QuickTime のどちらかで後付け予定
+- 同じ場所でも時間帯で見え方が変わる「その瞬間の景色」に出会える仕掛け
+  → プリセット切替（1〜5キー）で実装。将来は自動で夕→夜に遷移させたい
+- HUDは最小限（現在はプリセット名と操作ヒントのみ）
+
+## カラーパレット（Gemini調査値、コード反映済み）
+
+| # | 名前 | 空（天頂） | 地平線 | 霧 | 海 |
+|---|------|-----------|--------|----|----|
+| 1 | 夏の昼 | #1E6FD9 | #8FD3FF | #9AD8F5 | #165B9E |
+| 2 | ブルーアワー | #162447 | ※ | #2B4162 | #13293D |
+| 3 | 夕景 | #2C2A4A | #F28C38 | #C86D51 | #3D314A |
+| 4 | 雨上がり | #3B4856 | #8FA3B0 | #667785 | #2A3642 |
+| 5 | 夜 | #070B14 | #162238 | #0C1322 | #060D17 |
+
+※ ブルーアワーの地平線だけは、Geminiの青系（#4A6FA5）ではなく、ユーザーの写真に
+ある夕日の残照のオレンジを採用した。空の上部と霧と海は調査値どおり。
+
+## 性能予算（Gemini調査と一致）
+
+- 640x480、30fps目標
+- 1シーン 3,000〜15,000三角形。試作はテクスチャなし・頂点カラーのみでこの範囲内
+- テクスチャを使う場合も128〜256px中心、合計数MB以内、バインド切替を少なく
+- 半透明の重ね描きはフィルレートを食うので、反射と光輪は最小限の枚数に抑える
+
+## 町の配置（1周できる小さな町）
+
+```
+        山・見晴らし側 (+Z)
+  家並み  家並み  商店  家並み
+ ─────── 駅前通り ───────
+   駅ホーム／線路（電車が通過）
+ ─────── 海沿いの道・柵、防波堤ブロック ───────
+        海（帆船） (-Z)
+```
+
+- X軸方向に約180mの細長い町
+- 電車は44秒周期（通過約26秒＋静かな間隔）。パンタグラフ付き3両
+- 田舎道と線路沿いの草むらは駅の東側（+X）に寄せている
+
+## v0.3で追加したもの（2026-11-26、GitHubにプッシュ済み）
+
+- **踏切**（上の候補1を実装）：ホームの東側 x 40〜48 に道路を通し、ホームを
+  2分割して隙間を作った。海側と町側の両方に遮断機（赤白ストライプ、回転で
+  上下）と警報灯（2灯交互点滅）＋クロスバックを配置。電車の44秒周期に同期し、
+  先頭が踏切に来る約4秒前（12秒）から下がり始め、最後尾が抜けた後（19.5秒）
+  に上がる。テクスチャなし・頂点カラーのみで、追加ポリゴンは数十程度。
+
+## 次の候補（未実装）
+
+1. 水田の水面（夏）と畦道
+2. 環境音（波・風・虫・電車）— 時間帯連動
+3. 時間の自動遷移（夕景→ブルーアワー→夜をゆっくり）
+4. ベンチに「座る」操作（視点が下がって固定されるだけでも体験が変わる）
+5. 商店の看板など最小限のテクスチャ（128px、数枚だけ）
