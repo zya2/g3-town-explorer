@@ -1,1 +1,52 @@
-IyBHMyBUb3duIEV4cGxvcmVy77yI5Luu77yJCgpQb3dlciBNYWMgRzMgKEJsdWUgJiBXaGl0ZSkgLyBNYWMgT1MgWCAxMC4zLjkgUGFudGhlciAvIEFUSSBSYWdlIDEyOCDlkJHjgZHjga4KM0TnlLrmjqLmpJzjgrLjg7zjg6DoqabkvZzjgILjgq/jg6rjgqLjg7vjgrnjgrPjgqLjg7vmlbXjga/jgarjgY/jgIHmranjgYTjgabmma/oibLjgpLnnLrjgoHjgovjgaDjgZHjga4K44Km44Kp44O844Kt44Oz44Kw44Ky44O844Og44Gn44GZ44CCCgojIyDli5XjgYvjgZfmlrnvvIjoqabkvZwgdjAuM++8iQoKdjAuMzog6LiP5YiH44KS6L+95YqgIOKAlCDjg5vjg7zjg6Djga7mnbHlgbTvvIh4IDQw44CcNDjvvInjgavmtbfmsr/jgYTjga7pgZPjgajpp4XliY3pgJrjgorjgpLjgaTjgarjgZAK6YGT6Lev44GM6YCa44KK44CB6Zu76LuK44Gu6YCa6YGO44Gr5ZCI44KP44Gb44Gm6YGu5pat5qmf44GM5LiL44KK44CB6K2m5aCx54Gv44GM5Lqk5LqS44Gr54K55ruF44GZ44KL44CCCumbu+i7iuOBrjQ056eS5ZGo5pyf44Gr5ZCM5pyf77yI6YCa6YGO44Gu57SENOenkuWJjeOBq+S4i+OBjOOCiuWni+OCgeOAgemAmumBjuW+jOOBq+S4iuOBjOOCi++8ieOAggoKdjAuMjogR2VtaW5p6Kq/5p+744KS5Y+N5pigIOKAlCDjgqvjg6njg7zjg5Hjg6zjg4Pjg4jjgpLoqr/mn7vlgKTjgavlt67jgZfmm7/jgYjjgIHlpJzjga/lpJXnhafoibLjga7pm7LjgagK5aSp44Gu5bed44KS6L+95Yqg44CC6aeF44Gr44OZ44Oz44OB44Go6aeF5ZCN5qiZ44CB6Zu76LuK44Gr44OR44Oz44K/44Kw44Op44OV44CB5ZWG5bqX44Gr5a6k5aSW5qmf44Go44Kv44Os44O844OI44CBCuWQhOWutuOBq1RW44Ki44Oz44OG44OK44CB5rW35bK444Gr6Ziy5rOi5aCk44OW44Ot44OD44Kv44KS6L+95Yqg44CCCgotIOeUu+mdouOCr+ODquODg+OCr+W+jOOBq+ODnuOCpuOCueenu+WLle+8miDopovlm57jgZkKLSBXIEEgUyBEIC8g55+i5Y2w44Kt44O877yaIOatqeOBjwotIFNoaWZ077yaIOWwkeOBl+mAn+OBj+atqeOBjwotIDHjgJw177yaIOaZgumWk+W4r+ODu+Wkqeawl+OBruWIh+OCiuabv+OBiAogIC0gMSDlpI/jga7mmLzvvIjlhaXpgZPpm7LvvIkKICAtIDIg44OW44Or44O844Ki44Ov44O877yI5Yid5pyf55S76Z2i44CC5rW36L6644Gu6aeF44Go6Zu76LuK77yJCiAgLSAzIOWkleaZr++8iOa1t+i+uuOBruWVhuW6l++8iQogIC0gNCDpm6jkuIrjgYzjgorvvIjpp4Xjg5vjg7zjg6DjgIHotaTkv6Hlj7fjga7lj43lsITvvIkKICAtIDUg5aSc77yI5pif56m644Go5rW377yJCi0gRXNj77yaIOe1guS6hgoKIyMgUGFudGhlcuWun+apn+OBp+OBruODk+ODq+ODiQoK6L+95Yqg44Op44Kk44OW44Op44Oq44Gv5LiN6KaB44Gn44GZ44CCUGFudGhlcuOBrumWi+eZuuODhOODvOODq++8iFhjb2RlIDEuNe+8ieOBq+WQq+OBvuOCjOOCiwpHTFVUIC8gT3BlbkdMIOODleODrOODvOODoOODr+ODvOOCr+OBoOOBkeOBp+ODk+ODq+ODieOBp+OBjeOBvuOBmeOAggoKYGBgCmdjYyAtTzIgLW8gVG93bkV4cGxvcmVyIHNyYy9tYWluLmMgLWZyYW1ld29yayBHTFVUIC1mcmFtZXdvcmsgT3BlbkdMIC1mcmFtZXdvcmsgRm91bmRhdGlvbgpgYGAKCuKAuyDjgb7jgZrjgZPjga7oqabkvZzjgYzlrp/mqZ/jgaczMGZwc+WJjeW+jOOBp+atqeOBkeOCi+OBi+OCkueiuuiqjeOBmeOCi+OBruOBjOebrueahOOBp+OBmeOAggrph43jgYTloLTlkIjjga8gUkVBRE1FIOOBruOAjOaAp+iDveS6iOeul+OAjeOBqeOBiuOCiuOAgeino+WDj+W6pjY0MHg0ODDjg7sxNmJpdOOCq+ODqeODvOOBpwrotbfli5XjgZfjgabjgY/jgaDjgZXjgYTjgIIKCiMjIOaAp+iDveS6iOeul++8iFJhZ2UgMTI4IOWJjeaPkO+8iQoKLSDop6Plg4/luqYgNjQweDQ4MOOAgeebruaomTMwZnBzCi0gMeODleODrOODvOODoCAxMCwwMDDjg53jg6rjgrTjg7Pku6XkuIvjgpLnm67lrokKLSDjg4bjgq/jgrnjg4Hjg6Pjga/ljp/liYfkvb/jgo/jgZrjgIHpoILngrnjgqvjg6njg7zvvIvjg5XjgqnjgrDvvIvnqbrjga7jgrDjg6njg4fjg7zjgrfjg6fjg7PjgafoibLjgpLkvZzjgosKICDvvIhWUkFN44KS56m644GR44CB6Lui6YCB44KC6Lu944GP44GZ44KL44Gf44KB44CC55yL5p2/44Gq44Gp44Gg44GR5b6M44GnMTI4cHjjg4bjgq/jgrnjg4Hjg6PjgpLov73liqDvvIkKLSDli5XjgY/jgoLjga7jga/pm7vou4rjg7vouI/liIfjga7pga7mlq3mqZ/jgajorabloLHnga/jg7vmtbfjga7jgY3jgonjgoHjgY3jg7vluIboiLnjg7vpm7Ljga7mtYHjgozjgaDjgZHjgILniannkIbmvJTnrpfjgarjgZcKCiMjIOani+aIkAoKLSBgc3JjL21haW4uY2Ag4oCUIOOCsuODvOODoOacrOS9k++8iOWNmOS4gOODleOCoeOCpOODq+OAgUM4OeWvhOOCiuOAgWdjYyAzLjPjgafjgoLpgJrjgovmm7jjgY3mlrnvvIkKLSBgREVTSUdOLm1kYCDigJQg5pmv6Imy44Gu6Kit6KiI44CB44Kr44Op44O844OR44Os44OD44OI44CB55S644Gu6YWN572uCg==
+# G3 Town Explorer（仮）
+
+Power Mac G3 (Blue & White) / Mac OS X 10.3.9 Panther / ATI Rage 128 向けの
+3D町探検ゲーム試作。クリア・スコア・敵はなく、歩いて景色を眺めるだけの
+ウォーキングゲームです。
+
+## 動かし方（試作 v0.3）
+
+v0.3: 踏切を追加 — ホームの東側（x 40〜48）に海沿いの道と駅前通りをつなぐ
+道路が通り、電車の通過に合わせて遮断機が下り、警報灯が交互に点滅する。
+電車の44秒周期に同期（通過の約4秒前に下がり始め、通過後に上がる）。
+
+v0.2: Gemini調査を反映 — カラーパレットを調査値に差し替え、夜は夕照色の雲と
+天の川を追加。駅にベンチと駅名標、電車にパンタグラフ、商店に室外機とクレート、
+各家にTVアンテナ、海岸に防波堤ブロックを追加。
+
+- 画面クリック後にマウス移動： 見回す
+- W A S D / 矢印キー： 歩く
+- Shift： 少し速く歩く
+- 1〜5： 時間帯・天気の切り替え
+  - 1 夏の昼（入道雲）
+  - 2 ブルーアワー（初期画面。海辺の駅と電車）
+  - 3 夕景（海辺の商店）
+  - 4 雨上がり（駅ホーム、赤信号の反射）
+  - 5 夜（星空と海）
+- Esc： 終了
+
+## Panther実機でのビルド
+
+追加ライブラリは不要です。Pantherの開発ツール（Xcode 1.5）に含まれる
+GLUT / OpenGL フレームワークだけでビルドできます。
+
+```
+gcc -O2 -o TownExplorer src/main.c -framework GLUT -framework OpenGL -framework Foundation
+```
+
+※ まずこの試作が実機で30fps前後で歩けるかを確認するのが目的です。
+重い場合は README の「性能予算」どおり、解像度640x480・16bitカラーで
+起動してください。
+
+## 性能予算（Rage 128 前提）
+
+- 解像度 640x480、目標30fps
+- 1フレーム 10,000ポリゴン以下を目安
+- テクスチャは原則使わず、頂点カラー＋フォグ＋空のグラデーションで色を作る
+  （VRAMを空け、転送も軽くするため。看板などだけ後で128pxテクスチャを追加）
+- 動くものは電車・踏切の遮断機と警報灯・海のきらめき・帆船・雲の流れだけ。物理演算なし
+
+## 構成
+
+- `src/main.c` — ゲーム本体（単一ファイル、C89寄り、gcc 3.3でも通る書き方）
+- `DESIGN.md` — 景色の設計、カラーパレット、町の配置
